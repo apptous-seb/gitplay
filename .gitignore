@@ -1,1 +1,6 @@
 nbproject
+
+application/assets/*
+application/protected/runtime/*
+
+!.gitignore
